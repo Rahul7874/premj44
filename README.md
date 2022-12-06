@@ -19,7 +19,7 @@ ambitions of the organization.</i></h3>
   <a href="https://github.com/premj44"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;HTML%20|CSS%20|%20JavaScript%20|%20React%20Enthusiast;NodeJs%20|Express%20|MongoDB;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1542769401.1658920397" width="850" height="300">
+<img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" width="850" height="300">
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
